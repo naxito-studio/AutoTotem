@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.framelite.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"HandledScreenAccessor",
+		"HandledScreenLockMixin",
+		"InventoryScreenLockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
